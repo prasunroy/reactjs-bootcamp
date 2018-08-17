@@ -1,0 +1,17 @@
+.app-style {
+  margin: 100px 0px 100px 0px;
+  text-align: center;
+  color: #222;
+  font-family: "roboto";
+  font-size: 100px;
+}
+
+.input-style {
+  text-align: center;
+  font-family: "roboto";
+}
+
+.input-field {
+  width: 50%;
+  text-align: center;
+}
