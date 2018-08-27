@@ -1,4 +1,4 @@
-# *React.js Bootcamp*
+# React.js Bootcamp
 <img align='right' height='80' src='https://github.com/prasunroy/reactjs-bootcamp/blob/master/assets/logo.png' />
 
 ![badge](https://github.com/prasunroy/reactjs-bootcamp/blob/master/assets/badge_1.svg)
